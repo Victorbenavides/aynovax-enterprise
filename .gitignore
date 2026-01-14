@@ -1,0 +1,27 @@
+# --- PYTHON BACKEND ---
+__pycache__/
+*.py[cod]
+venv/
+env/
+.env
+*.db
+*.sqlite3
+backend/data_store/
+data_store/
+chroma_db/
+
+# --- FLUTTER FRONTEND ---
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.pub-cache/
+.vscode/
+.idea/
+frontend/build/
+frontend/ios/Flutter/Generated.xcconfig
+frontend/ios/Flutter/flutter_export_environment.sh
+
+# --- SYSTEM ---
+.DS_Store
+Thumbs.db
