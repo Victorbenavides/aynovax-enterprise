@@ -81,4 +81,4 @@ Su arquitectura Cliente-Servidor permite conectar múltiples dispositivos (PC, C
 
 ---
 
-**Developed by Victor Hugo Benavides.**
+**Developed by Victor Hugo Benavides - AI Engineer & Full Stack Developer**
