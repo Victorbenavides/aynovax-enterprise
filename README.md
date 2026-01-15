@@ -3,6 +3,11 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Flutter](https://img.shields.io/badge/Frontend-Flutter-02569B) ![Python](https://img.shields.io/badge/Backend-FastAPI-3776AB) ![AI](https://img.shields.io/badge/AI-Ollama%20%7C%20Llama3.2-orange)
 
 > **[🇺🇸 English](#-english-description) | [🇪🇸 Español](#-descripción-en-español)**
+>
+<img width="1235" height="669" alt="image" src="https://github.com/user-attachments/assets/4556f435-f686-46c8-926e-af2c4520c37e" />
+
+
+
 
 ---
 
@@ -52,7 +57,10 @@ Su arquitectura Cliente-Servidor permite conectar múltiples dispositivos (PC, C
 
 ## 📸 Screenshots / Capturas
 
----
+<img width="1612" height="1022" alt="image" src="https://github.com/user-attachments/assets/91940b07-33c4-4387-ab13-866d0d1fd8ea" />
+
+<img width="1469" height="979" alt="image" src="https://github.com/user-attachments/assets/11789526-e6bd-4a14-af96-b847f11dd370" />
+
 
 ## 🔧 Setup / Instalación
 

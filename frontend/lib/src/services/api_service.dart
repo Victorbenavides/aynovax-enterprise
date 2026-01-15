@@ -87,7 +87,6 @@ class ApiService {
       if (response.statusCode == 200) {
         List<dynamic> data = jsonDecode(utf8.decode(response.bodyBytes));
         
-        // Convertimos la lista dinámica a List<Map<String, String>>
         return data.map((msg) => {
           "role": msg['role'].toString(),
           "text": msg['text'].toString()
